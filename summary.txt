@@ -1,0 +1,9 @@
+1
+- Remember how to use Scanner
+
+2
+- Remember how to use switch cases
+
+3
+- Learned how to use parseInt(Int, base) to convert base2 to base10
+-- IE, use parseInt(1100010101, 2) to convert it to base 10
